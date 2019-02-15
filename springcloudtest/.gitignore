@@ -1,0 +1,5 @@
+/eurekaClientTest/
+/eurekaServerTest/
+/serviceFeignTest/
+/serviceRibbonTest/
+/serviceZuulTest/
